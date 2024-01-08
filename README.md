@@ -13,7 +13,7 @@ A sua missão é correr pelo maior tempo possível, evitando colisões com obst�
 
 ## 📽 Demonstração: 
 
-https://github.com/HenriqueCacerez/endless-runner-UE5/assets/110671999/611c5642-2e0d-46ec-84f3-1eaa00629753
+https://github.com/HenriqueCacerez/endless-runner-UE5/assets/110671999/aa1994a5-b77d-4218-ae29-6daf53073d1c
 
 ***
 
